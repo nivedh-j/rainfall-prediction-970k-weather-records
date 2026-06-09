@@ -191,29 +191,6 @@ Several regression approaches were explored for rainfall prediction.
 
 ---
 
-# 📊 Visualizations
-
-### Rainfall Distribution
-
-(Add Screenshot)
-
-### Correlation Heatmap
-
-(Add Screenshot)
-
-### Seasonal Rainfall Analysis
-
-[Plot][('Plots')https://github.com/nivedh-j/rainfall-prediction-970k-weather-records/blob/main/Images/Seasonal%20Rainfall.png]
-
-### State-wise Rainfall Comparison
-
-(Add Screenshot)
-
-### Geographic Weather Distribution
-
-(Add Screenshot)
-
----
 
 # 🗂 Repository Structure
 
