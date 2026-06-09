@@ -203,7 +203,7 @@ Several regression approaches were explored for rainfall prediction.
 
 ### Seasonal Rainfall Analysis
 
-(Add Screenshot)
+(Plot)['https://github.com/nivedh-j/rainfall-prediction-970k-weather-records/blob/main/Images/Seasonal%20Rainfall.png']
 
 ### State-wise Rainfall Comparison
 
