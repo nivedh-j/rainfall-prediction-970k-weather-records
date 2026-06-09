@@ -203,6 +203,7 @@ india-weather-analysis-970k/
 │   ├── heatmap.png
 │   ├── seasonal_analysis.png
 │   └── statewise_rainfall.png
+|   └── kerala rainfall.png
 ├── requirements.txt
 └── README.md
 ```
