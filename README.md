@@ -6,7 +6,7 @@
 
 
 
-\
+
 
 > A large-scale weather analytics and rainfall prediction project built using nearly one million weather observations collected across India. The project focuses on understanding weather patterns, seasonal behavior, geographical climate differences, and rainfall prediction using Machine Learning.
 
